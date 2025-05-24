@@ -1,4 +1,8 @@
-## Hi there 👋
+Hey, My name is Ashim Lamichhane, currently first year , 2nd semester steundent in School of Engineering,Pokhara University...
+HTML , CSS and PYTHON
+reach me:
+email:ashimlamichhane007@gmail.com
+
 
 <!--
 **ashim77-lc/ashim77-lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
