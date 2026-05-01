@@ -1,20 +1,19 @@
-Hey, My name is Ashim Lamichhane, currently first year , 2nd semester stundent in School of Engineering,Pokhara University...
-HTML , CSS and PYTHON
-reach me:
-email:ashimlamichhane007@gmail.com
+# Hi, I'm Ashim Lamichhane 👋
 
+Computer Engineering Student @ School of Engineering, Pokhara University
 
-<!--
-**ashim77-lc/ashim77-lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- Python, Flask, SQLite
+- HTML, CSS, Bootstrap
+- C, C++, DSA
+- Java (learning)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [School Management System](https://github.com/ashim77-lc/School-Management-System) — Live at [ashimdev.pythonanywhere.com](http://ashimdev.pythonanywhere.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: ashimlamichhane007@gmail.com
+
+## 🌱 Currently Learning
+- Flask Web Development
+- Full Stack Development
