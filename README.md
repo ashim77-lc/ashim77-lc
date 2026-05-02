@@ -9,7 +9,8 @@ Computer Engineering Student @ School of Engineering, Pokhara University
 - Java (learning)
 
 ## 🚀 Projects
-- [School Management System](https://github.com/ashim77-lc/School-Management-System) — Live at 
+- [School Management System](https://github.com/ashim77-lc/School-Management-System) 
+-  Live at ashimdev.pythonanywhere.com
 
 ## 📫 Contact
 - Email: ashimlamichhane007@gmail.com
