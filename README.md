@@ -17,9 +17,7 @@ Computer Engineering Student @ School of Engineering, Pokhara University
 - LinkedIn: [Ashim Lamichhane](https://www.linkedin.com/in/ashim-lamichhane-53bb65407/)
 - Email: ashimlamichhane007@gmail.com
 - Live Project: [ashimdev.pythonanywhere.com](http://ashimdev.pythonanywhere.com)
-- 
-## 📫 Contact
-- Email: ashimlamichhane007@gmail.com
+
 
 ## 🌱 Currently Learning
 - Flask Web Development
